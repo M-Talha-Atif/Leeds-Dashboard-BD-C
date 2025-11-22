@@ -163,12 +163,12 @@ export default function FilterBar({ categories, onCategoryChange, onScenarioChan
         <div className="flex flex-wrap justify-between items-center gap-6">
           <div>
             <div className="text-sm uppercase font-semibold text-gray-500">Certification Scheme</div>
-            <div className="text-lg font-bold text-gray-800">LEED Communities Plan and Design</div>
+            <div className="text-lg font-bold text-gray-800">LEED BD+C Plan and Design</div>
           </div>
 
           <div>
             <div className="text-sm uppercase font-semibold text-gray-500">Stage</div>
-            <div className="text-lg font-bold text-amber-600">Pre Certification</div>
+            <div className="text-lg font-bold text-amber-600">Certification</div>
           </div>
 
           <div className="flex items-center gap-3">

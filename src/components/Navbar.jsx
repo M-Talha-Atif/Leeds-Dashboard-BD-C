@@ -31,7 +31,7 @@ export default function ImpressiveNavbar() {
       href: "/summary",
       description: "Detailed performance insights",
     },
-    { title: "LEED Communities", href: "/reports", description: "Generate and view reports" },
+    { title: "LEED BD+C", href: "/reports", description: "Generate and view reports" },
   ]
 
   return (
